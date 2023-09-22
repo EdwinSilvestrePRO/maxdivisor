@@ -1,0 +1,22 @@
+{
+  "name": "maxdivisor",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Este paquete aporta el mecanismo para hallar el máximo común divisor de números Naturales.",
+  "main": "searchMCD.js",
+  "bugs": "https://github.com/EdwinSilvestrePRO/maxdivisor/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdwinSilvestrePRO/maxdivisor.git"
+  },
+  "scripts": {
+    "test": "node --version"
+  },
+  "keywords": [
+    "maximo",
+    "común",
+    "divisor"
+  ],
+  "author": "Codevelp",
+  "license": "ISC"
+}
